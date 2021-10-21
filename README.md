@@ -12,4 +12,4 @@ For this project i have used the dateset available on kaggle comprise of 57 colu
 Initialy we will work on understanding dataset for EDA. We will clean the data which will needed us to EDA and we will visualize the data for better understanding. 
 
 # Documentation
-https://docs.google.com/document/d/1IT3vZTuCtnMfLYAsR15KTX9-R6Fte9OC/edit#heading=h.30j0zll
+https://docs.google.com/document/d/1XmfcSEgSiJKpKtSud_ZYljY8vdMa1NuO/edit?usp=sharing&ouid=113502967851233081142&rtpof=true&sd=true
